@@ -1,5 +1,5 @@
 # HDLNcodes
-In this repository, you can find the MATLAB codes of 'Design of Urban Logistics Networks to Support Home Delivery' paper. Besides the functions that were explained below, you can find the main code of our design and other minor functions that were used in this design.
+In this repository, you can find the MATLAB codes of 'Design of Urban Logistics Networks to Support Home Delivery' paper. Besides the functions that were explained below, you can find the main code of our design and other minor functions that were used in this design. Keep in mind that in order to run this code, you also need to download matlog package for MATLAB. You can download it using this [link](https://mgkay.github.io/matlog/).
 
 ## Contents
 * [DemandWeight](https://github.com/eknylvac/HDLNcodes/blob/main/demandweight.m)
