@@ -33,6 +33,10 @@ Outputs are as follows:
 * TC: Latest iteration's total cost.
 * TC0: Lowest total cost of all iterations.
 
+Another version of this function called LocateDCnf is created for expansion planning of HDLN. All the input parameters remain the same except, we are taking the existing DC location. These are as follows:
+* X1: Existing DC coordinates.
+* X30: Potential unused DC locations from 2030 forecast.
+
 For more information on the aggregate distance please refer to
 Yalvac, E., & Kay, M. G. (2022). [Synthetic demand flow generation using the proximity factor](https://assets.researchsquare.com/files/rs-1918195/v1_covered.pdf?c=1659967372).
 
